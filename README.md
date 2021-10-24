@@ -38,11 +38,11 @@ The following packages installation is required for Modules and Liabrary used in
          
     ii.  Click on the Txn Hash number associated with the transaction that paid the Fintech Finder candidate for the payment detail
 
-         ![markdown_image](https://github.com/JuneB2021/Module-19-Challenge/tree/main/Images/TransactionDetail.PNG)
+         ![markdown_image](https://github.com/JuneB2021/Module-19-Challenge/blob/main/Images/TransactionDetail.PNG)
          
     iii. Click on the TO address number associated with the transaction paid to validate the payment sending from the sender
 
-         ![markdown_image](https://github.com/JuneB2021/Module-19-Challenge/tree/main/Images/EtherPayment.PNG)
+         ![markdown_image]https://github.com/JuneB2021/Module-19-Challenge/blob/main/Images/EtherPayment.PNG)
 
 ---
 
