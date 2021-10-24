@@ -29,12 +29,12 @@ The following packages installation is required for Modules and Liabrary used in
     ii.  On the resulting webpage, select a candidate from the drop-down menu, then enter the number of hours you'd like to hire them
     iii. Click the Send Transaction button to sign and send the transaction with your Ethereum account information
     
-![markdown_image](https://github.com/JuneB2021/Module-19-Challenge/tree/main/Images/ValidationTransactionHash.PNG)
+![markdown_image](https://github.com/JuneB2021/Module-19-Challenge/blob/main/Images/ValidationTransactionHash.PNG)
     
    #### Validate Transaction 
     i.   Navigate to Kovan Etherscan and enter Ethereum address into the Kovan Etherscan search bar to retreive balance and history
 
-![markdown_image](https://github.com/JuneB2021/Module-19-Challenge/tree/main/Images/EtherBalance.PNG)
+![markdown_image](https://github.com/JuneB2021/Module-19-Challenge/blob/main/Images/EtherBalance.PNG)
          
     ii.  Click on the Txn Hash number associated with the transaction that paid the Fintech Finder candidate for the payment detail
 
